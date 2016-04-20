@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>HTML Template</title>
+<link rel="stylesheet" href="css/style.css">
+</head> 
+<body>
+<h1>get yo links!!</h1>
+<nav>
+<a id="home" title="home" href="index.html">home</a>
+<a id="gallery" title="gallery" href="gallery.html">gallery</a>
+<a id="info" title="info" href="info.html">info</a>
+<a id="links" title="links" href="links.page">links</a>
+</nav>
+</body>
+</html>
